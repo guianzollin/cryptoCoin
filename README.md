@@ -1,2 +1,2 @@
 # cyber-security-blockchain-example
-A simple example of a blockchain in JS
+A simple blockchain example in JS.
